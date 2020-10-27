@@ -1,7 +1,6 @@
-# RC1: 3D World
+# RC2: Textures
 
-- Ambiente de desarrollo para RayCaster Simple.
-- PyGame (Python)
+- Texturizar el nivel creado por su Ray Caster Simple.
 
 ## Como ejecutar el codigo
 
